@@ -1,0 +1,23 @@
+/* ==========================================
+   SPRINT 1: CONFIGURACIÓN GENERAL
+   Define el ancho mínimo y la altura
+   de la página para adaptar la interfaz.
+   ========================================== */
+
+html {
+  min-width: 320px;
+  min-height: 100%;
+}
+
+/* SPRINT 1: Configuración del cuerpo de la página */
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+/* SPRINT 1: Contenedor principal de React */
+
+#root {
+  min-height: 100vh;
+}
